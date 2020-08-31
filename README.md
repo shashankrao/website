@@ -1,2 +1,2 @@
 # website
-https://shashankrao.me
+https://shashankrao.com
